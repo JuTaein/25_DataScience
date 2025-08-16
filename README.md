@@ -16,4 +16,4 @@
 - Evaluation:
   Utilize ML metrics such as F1-score, confusion matrix, and ROC-AUC.
 
-- project proposal: (DS_ProjectProposal.pdf)
+- project proposal: DS_ProjectProposal.pdf
