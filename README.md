@@ -1,6 +1,6 @@
 # 25_DataScience
 
-- Voice-based Emotion Prediction (ML)
+- Voice/text-based Emotion Prediction (ML)
 - Problem Definition: Develop an ML model to predict a person's emotions from a short voice recording.
 
 - Technologies Used:
